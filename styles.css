@@ -92,7 +92,7 @@ body {
 }
 
 .card--light {
-  background: #ffffff;
+  background: #f8f8f8;
   border: 1px solid var(--border);
 }
 
